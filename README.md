@@ -36,4 +36,4 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 For any queries or suggestions, feel free to reach out:
 
-- Email: saurabhbcp2122@gmail.com
+- Email: imshashwatsingh@gmail.com
